@@ -16,3 +16,4 @@ Updated README with basic info
 Added slight improvement in text 
 Made minor edit in documentation
 Added simple change to file
+Updated content with small addition
