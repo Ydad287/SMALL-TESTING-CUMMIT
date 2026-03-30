@@ -5,3 +5,4 @@ Made a quick change in project file
 Updated README with a new line
 Added minor progress update
 Improved content slightly
+Added simple note in README
