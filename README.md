@@ -12,3 +12,4 @@ Updated project with minor change
  Improved file content a bit
 Added quick update to documentation
 Made small change for testing
+Updated README with basic info
