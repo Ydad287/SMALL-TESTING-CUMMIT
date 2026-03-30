@@ -13,3 +13,4 @@ Updated project with minor change
 Added quick update to documentation
 Made small change for testing
 Updated README with basic info
+Added slight improvement in text 
