@@ -17,3 +17,4 @@ Added slight improvement in text
 Made minor edit in documentation
 Added simple change to file
 Updated content with small addition
+Improved readability a little
