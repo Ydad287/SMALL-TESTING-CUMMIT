@@ -18,3 +18,4 @@ Made minor edit in documentation
 Added simple change to file
 Updated content with small addition
 Improved readability a little
+Added new update entry
