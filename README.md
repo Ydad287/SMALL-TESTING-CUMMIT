@@ -24,3 +24,4 @@ Updated documentation slightly
 Added basic update to project
 Made minor formatting change
 Added new progress line
+Updated file with quick edit
