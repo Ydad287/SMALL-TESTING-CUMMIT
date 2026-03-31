@@ -35,3 +35,4 @@ Added new simple update
 Made slight content change
 Updated README with tweak
 Added another progress note
+Made small documentation change
