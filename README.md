@@ -48,3 +48,4 @@ Added another simple update in file
 Made small improvement in file
 Updated documentation content
 Added quick progress update
+Improved file structure a bit
