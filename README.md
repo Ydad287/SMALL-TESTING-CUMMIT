@@ -43,3 +43,4 @@ Added new line in documentation
 Made quick update in file
 Updated project content
 Added minor change in README
+Improved text clarity slightly
