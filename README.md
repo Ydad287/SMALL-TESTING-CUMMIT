@@ -22,3 +22,4 @@ Added new update entry
 Made quick fix in README
 Updated documentation slightly
 Added basic update to project
+Made minor formatting change
