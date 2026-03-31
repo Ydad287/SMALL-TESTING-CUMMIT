@@ -31,3 +31,4 @@ Made small update in README
 Updated project notes
 Added quick content update
 Improved file readability
+Added new simple update
