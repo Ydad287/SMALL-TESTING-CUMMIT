@@ -29,3 +29,4 @@ Improved structure slightly
 Added minor improvement
 Made small update in README
 Updated project notes
+Added quick content update
